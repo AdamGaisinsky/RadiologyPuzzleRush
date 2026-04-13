@@ -1,2 +1,2 @@
 matplotlib
-streamlit
+streamlit_image_coordinates
