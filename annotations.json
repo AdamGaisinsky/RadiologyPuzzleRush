@@ -1,0 +1,20 @@
+{
+  "case1.png": {
+    "label": "pneumonia", 
+    "difficulty": 1,
+    "boxes": [
+    {"x": 41, "y": 288, "width": 87, "height": 87}]
+  },
+  "case2.png": {
+    "label": "pneumonia",
+    "difficulty": 2,
+    "boxes": [
+    {"x": 99, "y": 183, "width": 63, "height": 47}]
+  },
+  "case3.png": {
+    "label": "pneumonia",
+    "difficulty": 3,
+    "boxes": [
+    {"x": 102, "y": 138, "width": 115, "height": 92}]
+  }
+}
